@@ -1,4 +1,4 @@
-# ToDoApp
+# ToDoApp - API de práctica
 
 APIrest de arquitectura orientada a microservicio. 
 Gestor de tareas con su CRUD completo usando :
